@@ -1,0 +1,33 @@
+#chat-page-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#chat-page
+{
+    width: 25%;
+}
+
+#heading-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#input-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#button-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

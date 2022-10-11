@@ -1,0 +1,56 @@
+#join-page-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#join-page
+{
+    width: 25%;
+}
+
+#heading-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h3
+{
+    margin: 5px;
+}
+
+#inputs-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input
+{
+    width: 200px;
+    height: 30px;
+    margin: 5px;
+}
+
+#button-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button
+{
+    background-color: #4CBB17;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border: none;
+    font-family: "Poppins", sans-serif;
+    cursor: pointer;
+}
